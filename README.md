@@ -13,7 +13,7 @@ This backend handles the core logic for the **NORA AI Launchpad dApp**, enabling
 
 1. Clone the repository:
    ```bash
-   git clone https://github.com/NORA AI/launchpad-backend.git
+   git clone https://github.com/Norai-Ai/Launchpad-backend-main.git
    cd launchpad-backend
    ```
 
