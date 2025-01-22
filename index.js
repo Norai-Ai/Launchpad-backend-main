@@ -1,6 +1,6 @@
 /**
- * NuroAI Launchpad Backend
- * Handles the core backend functionality for the NuroAI Launchpad platform.
+ * NORA AI Launchpad Backend
+ * Handles the core backend functionality for the NORA AI Launchpad platform.
  */
 
 require("dotenv").config();
@@ -22,5 +22,5 @@ app.use("/api/users", userRoutes);
 // Start the server
 const PORT = process.env.PORT || 3000;
 app.listen(PORT, () => {
-  console.log(`NuroAI Launchpad Backend running on port ${PORT}`);
+  console.log(`NORA AI Launchpad Backend running on port ${PORT}`);
 });

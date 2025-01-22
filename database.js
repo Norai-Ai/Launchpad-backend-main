@@ -1,5 +1,5 @@
 /**
- * NuroAI Launchpad Backend
+ * norai Launchpad Backend
  * Utility for connecting to the MongoDB database.
  */
 
@@ -11,7 +11,7 @@ async function connectToDatabase() {
       useNewUrlParser: true,
       useUnifiedTopology: true,
     });
-    console.log("Connected to MongoDB for NuroAI Launchpad");
+    console.log("Connected to MongoDB for Norai Launchpad");
   } catch (error) {
     console.error("Error connecting to MongoDB:", error);
     process.exit(1);

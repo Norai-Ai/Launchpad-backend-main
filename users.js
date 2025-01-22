@@ -1,6 +1,6 @@
 /**
- * NuroAI Launchpad Backend
- * API routes for managing users on the NuroAI Launchpad platform.
+ * NORA AI Launchpad Backend
+ * API routes for managing users on the NORA AI Launchpad platform.
  */
 
 const express = require("express");

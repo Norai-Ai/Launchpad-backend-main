@@ -1,5 +1,5 @@
 /**
- * NuroAI Launchpad Backend
+ * NORA AI Launchpad Backend
  * Mongoose model for managing user data.
  */
 

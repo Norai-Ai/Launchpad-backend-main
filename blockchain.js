@@ -1,5 +1,5 @@
 /**
- * NuroAI Launchpad Backend
+ * norai Launchpad Backend
  * Utility functions for interacting with the blockchain.
  */
 

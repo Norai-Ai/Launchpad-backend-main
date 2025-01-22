@@ -1,6 +1,6 @@
-# NuroAI Launchpad Backend
+# NORA AI Launchpad Backend
 
-This backend handles the core logic for the **NuroAI Launchpad dApp**, enabling project listings, user registration, and funding operations.
+This backend handles the core logic for the **NORA AI Launchpad dApp**, enabling project listings, user registration, and funding operations.
 
 ## Features
 
@@ -13,7 +13,7 @@ This backend handles the core logic for the **NuroAI Launchpad dApp**, enabling 
 
 1. Clone the repository:
    ```bash
-   git clone https://github.com/nuroai/launchpad-backend.git
+   git clone https://github.com/NORA AI/launchpad-backend.git
    cd launchpad-backend
    ```
 
@@ -25,7 +25,7 @@ This backend handles the core logic for the **NuroAI Launchpad dApp**, enabling 
 3. Create a `.env` file with the following content:
    ```plaintext
    PORT=3000
-   MONGO_URI=mongodb://localhost:27017/nuroai-launchpad
+   MONGO_URI=mongodb://localhost:27017/NORA AI-launchpad
    BLOCKCHAIN_URL=https://mainnet.infura.io/v3/YOUR_PROJECT_ID
    ```
 
